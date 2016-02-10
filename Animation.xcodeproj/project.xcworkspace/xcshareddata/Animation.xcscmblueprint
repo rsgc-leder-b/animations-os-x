@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "FB7B900EFCDCC22AC5A4C80A17B8CEA2A7C07A64",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "841F739333088A2DFCAB9B221C5D319235F6D903" : 0,
+    "FB7B900EFCDCC22AC5A4C80A17B8CEA2A7C07A64" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "AF600B6A-DC8A-4565-AB59-61E5C29E295C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "841F739333088A2DFCAB9B221C5D319235F6D903" : "",
+    "FB7B900EFCDCC22AC5A4C80A17B8CEA2A7C07A64" : "animations-os-x\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Animation",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Animation.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/rsgc-leder-b\/Github.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "841F739333088A2DFCAB9B221C5D319235F6D903"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/rsgc-leder-b\/animations-os-x.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FB7B900EFCDCC22AC5A4C80A17B8CEA2A7C07A64"
+    }
+  ]
+}
